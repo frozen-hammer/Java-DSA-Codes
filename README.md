@@ -1,2 +1,1 @@
-# Java-DSA-Codes
-DSA Questions and there Codes
+# DIT_BATCH_DSA_CODES
